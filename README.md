@@ -1,16 +1,17 @@
-## Hi there 👋
+## 🛠️ Projects & Contributions
 
-<!--
-**ReJi-12/ReJi-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ARuCo
+**Role:** VR Developer (Contributor)  
+**Tech:** Unity · C# · XR Interaction Toolkit · Meta Quest 3 
 
-Here are some ideas to get you started:
+VRゲームのUnity側を担当．Meta Quest 3のコントローラ速度・加速度を取得し，
+腕振り動作で前進するロコモーション機能を実装．
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [リポジトリ]([リポジトリURL](https://github.com/anshibagundan/AruCo)) <!-- ContributorページのURLでも可 -->
+
+---
+
+## 💻 Skills
+
+**Languages:** C# · Python ·
+**Tools:** Unity · ROS 2（研究プロジェクトにて使用・非公開）
